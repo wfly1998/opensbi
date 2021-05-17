@@ -24,5 +24,5 @@ For using it for Fuxi SoC, you should use `bin2coe.py` in [GeeOS](https://github
 $ python3 PATH_TO_GEEOS/utiks/bin2coe.py PATH_TO_OPENSBI/build/fpga/fuxi/firmware/fw_jump.bin
 ```
 
-Then copy the `fw_jump.bin.coe` to Fuxi SoC at `Fuxi/soc/soc.srcs/sources_1/new/ocm.coe`, and you cam generate Fuxi SoC with opensbi for FPGA.
+Then copy the `fw_jump.bin.coe` to Fuxi SoC at `Fuxi/soc/soc.srcs/sources_1/new/ocm.coe`, and you can generate Fuxi SoC with opensbi for FPGA.
 
